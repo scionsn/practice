@@ -1,0 +1,7 @@
+basic structure:-
+todoitem contains an input box. it also contains the button to add or edit the
+input in the box.
+todolist contains the list of items. each item contains 2 buttons , 1 to edit and the  
+other to delete. if the  edit button is pressed then the add button changes to edit button.
+and if the delete button is pressed then the selected input is marked and then  once
+again pressing on it deletes the input.
